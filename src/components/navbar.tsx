@@ -1,6 +1,6 @@
 export function Navbar() {
   return (
-    <section className="h-20">
+    <section className="h-16">
       <nav className="flex justify-evenly content-center items-center">
         <a href="#">
           <img src="src/images/header-logo.png" alt="Header Logo" />
