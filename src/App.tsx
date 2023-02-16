@@ -1,9 +1,9 @@
-import { Profile } from "./components/profile";
+import { Navbar } from "./components/profile";
 
 export function App() {
   return (
     <div>
-      <Profile />
+      <Navbar />
     </div>
   );
 }
