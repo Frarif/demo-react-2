@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 20px;
+}
+
+table {
+  padding: 10px 50px;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+}
